@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Mohamad%20Zalaf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ITE%20Student%20%7C%20Python%20Developer%20%7C%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Mohamad%20Zalaf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ITE%20Student%20%7C%20Python%20Developer%20%7C%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -126,16 +126,18 @@ xychart-beta horizontal
       <b>Static Bot</b>
     </td>
     <td>
-      <b>📡 Proxy Management System & 🛒 E-Shop</b><br/>
+      <b>📡 Proxy Management System &amp; 🛒 E-Shop</b><br/>
       Telegram bot for selling multi-type proxies, customer management, and more.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <br/><br/>
-      📅 Dec 2024 &nbsp;|&nbsp; ![Status](https://img.shields.io/badge/✅_Completed_+_🔄_Updating-22c55e?style=flat-square)
-      &nbsp; [![Open Bot](https://img.shields.io/badge/Open_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Static_Bot/)
+      📅 Dec 2024 &nbsp;|&nbsp;
+      <img src="https://img.shields.io/badge/✅ Completed + 🔄 Updating-22c55e?style=flat-square"/>
+      &nbsp;
+      <a href="https://t.me/Static_Bot/"><img src="https://img.shields.io/badge/Open Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -145,15 +147,17 @@ xychart-beta horizontal
       <b>Lofi Bot - lite</b>
     </td>
     <td>
-      <b>🛒 E-Shop & 👤 Account Management System</b><br/>
+      <b>🛒 E-Shop &amp; 👤 Account Management System</b><br/>
       Telegram bot for selling multi-type accounts, customer management, and more.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <br/><br/>
-      📅 Dec 2025 &nbsp;|&nbsp; ![Status](https://img.shields.io/badge/✅_Completed-22c55e?style=flat-square)
-      &nbsp; [![Open Bot](https://img.shields.io/badge/Open_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Lofi_tech_bot/)
+      📅 Dec 2025 &nbsp;|&nbsp;
+      <img src="https://img.shields.io/badge/✅ Completed-22c55e?style=flat-square"/>
+      &nbsp;
+      <a href="https://t.me/Lofi_tech_bot/"><img src="https://img.shields.io/badge/Open Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -163,14 +167,15 @@ xychart-beta horizontal
       <b>Zalaf Gallery</b>
     </td>
     <td>
-      <b>🖼️ Personal Portfolio & Projects Gallery</b><br/>
+      <b>🖼️ Personal Portfolio &amp; Projects Gallery</b><br/>
       A personal website showcasing all projects, skills, and contact info.<br/><br/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <br/><br/>
-      ![Status](https://img.shields.io/badge/✅_Live-22c55e?style=flat-square)
-      &nbsp; [![Visit](https://img.shields.io/badge/Visit_Site-6366f1?style=flat-square&logo=firefox&logoColor=white)](https://samzalaf.github.io/Zalaf_Gallery/)
+      <img src="https://img.shields.io/badge/✅ Live-22c55e?style=flat-square"/>
+      &nbsp;
+      <a href="https://samzalaf.github.io/Zalaf_Gallery/"><img src="https://img.shields.io/badge/Visit Site-6366f1?style=flat-square&logo=firefox&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -179,10 +184,37 @@ xychart-beta horizontal
 
 ### 🔧 In Progress
 
-| Project | Category | Description | Tech | Status |
-|---------|----------|-------------|------|--------|
-| 🤖 **SMSBot** | Telegram Bot | SMS automation & messaging bot | Python · Telegram API | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
-| 📱 **H\*\*\*\*S\*\*\*** | Android App | Stealth project — stay tuned 👀 | Python · Android | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /><br/><br/>
+      <b>SMSBot</b>
+    </td>
+    <td>
+      <b>🤖 SMS Automation &amp; Messaging Bot</b><br/>
+      Telegram bot for SMS sending and automation workflows.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔧 In Progress-f59e0b?style=flat-square"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><br/><br/>
+      <b>H****S***</b>
+    </td>
+    <td>
+      <b>📱 Android App — Stealth Project</b><br/>
+      Stay tuned 👀 Details coming soon.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔧 In Progress-f59e0b?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
