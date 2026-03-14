@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Mohamad+Zalaf;IT+Student+%40+Syrian+Virtual+University;Python+Developer+%F0%9F%90%8D;Always+Building+Something+New...;Vibe+Coder+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Mohamad+Zalaf;IT+Student+%40+Syrian+Virtual+University;Python+Developer+%F0%9F%90%8D;Always+Building+Something+New...;Vibe+Coder+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -109,7 +109,7 @@ xychart-beta horizontal
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SAMZalaf&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMZalaf&theme=tokyo-night&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
@@ -192,7 +192,7 @@ xychart-beta horizontal
     </td>
     <td>
       <b>🤖 SMS Automation &amp; Messaging Bot</b><br/>
-      Telegram bot for SMS sending and automation workflows.<br/><br/>
+      Telegram bot for SMS virtual numbers .<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
       <br/><br/>
