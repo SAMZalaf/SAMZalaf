@@ -21,24 +21,48 @@
 
 ## 🧑‍💻 About Me
 
-```python
-zalaf = {
-    "name":       "Mohamad Zalaf",
-    "username":   "SAMZalaf",
-    "university": "Syrian Virtual University 🎓",
-    "degree":     "ITE — Information Technology Engineering (Currently Enrolled 📖)",
-    "location":   "Syria 🇸🇾",
-    "focus":      ["Python Development", "Linux", "Building Cool Stuff"],
-    "learning":   ["C#", "React", "HTML + CSS + JS"],
-    "hobbies":    ["Vibe Coding ✨", "Open Source", "Problem Solving"],
-    "emails":     [
-                    "MohamadZalaf@outlook.com",
-                    "Mohamadzalaf2017@gmail.com",
-                    "MohamadZalaf0@gmail.com"
-                  ],
-    "status":     "🟢 Open to collaboration"
-}
-```
+<table>
+  <tr>
+    <td>👤 <b>Name</b></td>
+    <td>Mohamad Zalaf</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>University</b></td>
+    <td>Syrian Virtual University</td>
+  </tr>
+  <tr>
+    <td>📖 <b>Degree</b></td>
+    <td>ITE — Information Technology Engineering <i>(Currently Enrolled)</i></td>
+  </tr>
+  <tr>
+    <td>🇸🇾 <b>Location</b></td>
+    <td>Syria</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Focus</b></td>
+    <td>Python Development · Linux · Building Cool Stuff</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>C# · React · HTML + CSS + JS</td>
+  </tr>
+  <tr>
+    <td>✨ <b>Hobbies</b></td>
+    <td>Vibe Coding · Open Source · Problem Solving</td>
+  </tr>
+  <tr>
+    <td>📧 <b>Emails</b></td>
+    <td>
+      <a href="mailto:MohamadZalaf@outlook.com">MohamadZalaf@outlook.com</a><br/>
+      <a href="mailto:Mohamadzalaf2017@gmail.com">Mohamadzalaf2017@gmail.com</a><br/>
+      <a href="mailto:MohamadZalaf0@gmail.com">MohamadZalaf0@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td>🟢 <b>Status</b></td>
+    <td>Open to collaboration</td>
+  </tr>
+</table>
 
 ---
 
@@ -46,7 +70,7 @@ zalaf = {
 
 ### ✅ Proficient
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=python,linux,windows,androidstudio" />
 </p>
 
 ### 📚 Currently Learning
@@ -64,12 +88,11 @@ zalaf = {
 ## 📊 Skills Overview
 
 ```mermaid
-pie title My Tech Focus
-    "Python" : 45
-    "C# (Learning)" : 15
-    "React (Learning)" : 15
-    "HTML + CSS + JS (Learning)" : 15
-    "Linux / Windows / Sysadmin" : 10
+xychart-beta horizontal
+    title "Skill Level"
+    x-axis ["Windows", "Python", "Linux", "Android", "GitHub", "VS Code", "C#", "React", "HTML/CSS/JS"]
+    y-axis "Level" 0 --> 100
+    bar [90, 80, 80, 75, 70, 70, 35, 30, 30]
 ```
 
 ---
@@ -79,7 +102,6 @@ pie title My Tech Focus
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SAMZalaf&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMZalaf&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
 
 <br/><br/>
 
@@ -97,19 +119,70 @@ pie title My Tech Focus
 
 ### ✅ Completed / Live
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| 🖼️ **Zalaf Gallery** | Personal portfolio & projects gallery | HTML · CSS · JS | [![Live](https://img.shields.io/badge/Live-6366f1?style=flat-square&logo=firefox&logoColor=white)](https://samzalaf.github.io/Zalaf_Gallery/) |
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="pics/1.png" width="100" height="100" style="border-radius:10px;" alt="Static Bot"/><br/>
+      <b>Static Bot</b>
+    </td>
+    <td>
+      <b>📡 Proxy Management System & 🛒 E-Shop</b><br/>
+      Telegram bot for selling multi-type proxies, customer management, and more.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <br/><br/>
+      📅 Dec 2024 &nbsp;|&nbsp; ![Status](https://img.shields.io/badge/✅_Completed_+_🔄_Updating-22c55e?style=flat-square)
+      &nbsp; [![Open Bot](https://img.shields.io/badge/Open_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Static_Bot/)
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="pics/2.png" width="100" height="100" style="border-radius:10px;" alt="Lofi Bot"/><br/>
+      <b>Lofi Bot - lite</b>
+    </td>
+    <td>
+      <b>🛒 E-Shop & 👤 Account Management System</b><br/>
+      Telegram bot for selling multi-type accounts, customer management, and more.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <br/><br/>
+      📅 Dec 2025 &nbsp;|&nbsp; ![Status](https://img.shields.io/badge/✅_Completed-22c55e?style=flat-square)
+      &nbsp; [![Open Bot](https://img.shields.io/badge/Open_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Lofi_tech_bot/)
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://samzalaf.github.io/Zalaf_Gallery/logo.jpg" width="100" height="100" style="border-radius:10px;" alt="Zalaf Gallery"/><br/>
+      <b>Zalaf Gallery</b>
+    </td>
+    <td>
+      <b>🖼️ Personal Portfolio & Projects Gallery</b><br/>
+      A personal website showcasing all projects, skills, and contact info.<br/><br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      ![Status](https://img.shields.io/badge/✅_Live-22c55e?style=flat-square)
+      &nbsp; [![Visit](https://img.shields.io/badge/Visit_Site-6366f1?style=flat-square&logo=firefox&logoColor=white)](https://samzalaf.github.io/Zalaf_Gallery/)
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🔧 In Progress
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 🤖 **SMSBot** | Telegram bot for SMS automation & messaging | Python · Telegram API | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
-| 📱 **Android App** | Mobile application (details coming soon) | TBD | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
-| 🖥️ **H\*\*\*\*S\*\*\*** | Stealth project — stay tuned 👀 | Python | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
+| Project | Category | Description | Tech | Status |
+|---------|----------|-------------|------|--------|
+| 🤖 **SMSBot** | Telegram Bot | SMS automation & messaging bot | Python · Telegram API | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
+| 📱 **H\*\*\*\*S\*\*\*** | Android App | Stealth project — stay tuned 👀 | Python · Android | ![WIP](https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square) |
 
 ---
 
