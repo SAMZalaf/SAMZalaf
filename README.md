@@ -122,7 +122,7 @@ xychart-beta horizontal
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="pics/1.png" width="100" height="100" style="border-radius:10px;" alt="Static Bot"/><br/>
+      <img src="pics/1.jpg" width="100" height="100" style="border-radius:10px;" alt="Static Bot"/><br/>
       <b>Static Bot</b>
     </td>
     <td>
@@ -141,7 +141,7 @@ xychart-beta horizontal
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="120" align="center">
-      <img src="pics/2.png" width="100" height="100" style="border-radius:10px;" alt="Lofi Bot"/><br/>
+      <img src="pics/2.jpg" width="100" height="100" style="border-radius:10px;" alt="Lofi Bot"/><br/>
       <b>Lofi Bot - lite</b>
     </td>
     <td>
