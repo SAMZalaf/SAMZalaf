@@ -235,6 +235,8 @@ xychart-beta horizontal
 ---
 
 <div align="center">
+  
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" data-hovercard-type="achievement" data-hovercard-url="/users/SAMZalaf/achievements/quickdraw/detail?hovercard=1" width="64" alt="Achievement: Quickdraw" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&animation=fadeIn" width="100%"/>
 
